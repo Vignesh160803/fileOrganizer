@@ -1,4 +1,3 @@
-# fileOrganizer
 # Downloads Organizer
 
 ## Overview
