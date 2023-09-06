@@ -57,4 +57,3 @@ This script is provided under the [MIT License](LICENSE.md).
 
 ---
 
-Feel free to customize this README file further to include any additional information or instructions specific to your use case.
