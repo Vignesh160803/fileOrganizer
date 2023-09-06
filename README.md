@@ -22,7 +22,7 @@ Before running the script, make sure you have the following:
 4. Run the script using the following command:
 
    ```
-   python organize_downloads.py
+   python DownloadManagerService.py
    ```
 
 5. The script will automatically find your Downloads directory and organize the files.
